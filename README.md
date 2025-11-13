@@ -14,3 +14,4 @@
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
 | Belean, Denisa Ramona | Clustering de lectores según su perfil |
 | López Guerrero, Álvaro | Predicción de lesiones en deportistas |
+| Alcántara Moreno, Enrique | Predicción de hasta qué punto mantenerse activo en la tercera edad se asocia con vivir más años |
