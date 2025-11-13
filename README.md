@@ -12,3 +12,4 @@
 | Gálvez Madueño , Alejandro | Detección de cáncer (maligno/benigno) |
 | Sihammou Anahnah , Ismael | Predicción numero de defunciones por causa de muerte y sexo en un municipio|
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
+| Belean, Denisa Ramona | Clustering de lectores según su perfil |
