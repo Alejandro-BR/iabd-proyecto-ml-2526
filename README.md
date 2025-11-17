@@ -14,5 +14,5 @@
 | Cerezo López, Carlos | Predicción de posibles accidentes cerebrovasculares|
 | Belean, Denisa Ramona | Clustering de lectores según su perfil |
 | López Guerrero, Álvaro | Predicción de lesiones en deportistas |
-| Alcántara Moreno, Enrique | Predicción de hasta qué punto mantenerse activo se asocia con una menor probabilidad de padecer hipertensión. |
+| Alcántara Moreno, Enrique | Predicción de hasta qué punto mantenerse activo se asocia con una menor probabilidad de padecer hipertensión en personas adultas. |
 | Delgado Rodríguez, Antonio | Predicción de diabetes |
