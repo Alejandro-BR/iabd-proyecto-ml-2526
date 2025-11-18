@@ -17,3 +17,4 @@
 | Alcántara Moreno, Enrique | Predicción de hasta qué punto mantenerse activo se asocia con una menor probabilidad de padecer hipertensión en personas adultas. |
 | Delgado Rodríguez, Antonio | Predicción de diabetes |
 | Guerrero Martín, Ismael | Predicción del retrasos de vuelos |
+| Dueñas Cortés, Manuel | Predicción de goles de jugadores de futbol |
