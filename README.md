@@ -2,11 +2,11 @@
 
 | Apellidos, Nombre | Proyecto |
 |-------------------|----------|
-| Barrionuevo Rosado, Alejandro | Predicción de resultados de partidos de fútbol |
+| Barrionuevo Rosado, Alejandro | Predicción de esperanza de vida por pais |
 | Herrera Sánchez, Jesús | Adicción de estudiantes a las redes sociales |
 |Jiménez Guerrero, Victor |   Calidad del agua       |
 | Vacas López, Cristina | Calorías quemadas según ejercicio |
-| Robles Ruiz, Elías | Precios coches en subasta |
+| Robles Ruiz, Elías | Predicción de precios coches en subasta |
 | Xia Ye, Ruyi | Predicción de ictus |
 | Bravo Sánchez , Fernando | Predicción del precio de alojamientos de Airbnb en Málaga |
 | Gálvez Madueño , Alejandro | Predicción de precio de Bitcoin |
